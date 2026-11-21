@@ -74,4 +74,4 @@ Blinkit operates a network of outlets of different sizes, types and city tiers. 
 ## Tech Stack
 
 - **Power BI Desktop** (data modelling, DAX measures, visuals, slicers)
-- Source data: Blinkit item and outlet sales dataset *(add source / link here)*
+- Source data: Blinkit item and outlet sales dataset.
